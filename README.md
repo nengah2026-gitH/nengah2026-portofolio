@@ -13,3 +13,11 @@ Hari pertama fokus ke dasar-dasar data analyst:
 ### 1. Analisis Penjualan Hari 1
 **Folder**: `Day1_Excel_SQL_Basics`  
 **Deskripsi**: Bersihin data kotor, cari top 5 produk, bikin chart penjualan
+### Hari 2: 23 Mei 2026
+**Fokus:** Python Pandas untuk analisis penjualan
+
+- Load dan bersihin data CSV pakai Pandas
+- Analisis penjualan per produk
+- Hasil: Notebook `analisis_penjualan.ipynb`
+
+**Folder:** `Day2_Python_Pandas`
