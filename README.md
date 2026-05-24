@@ -1,5 +1,5 @@
 # Day 3: Data Visualization dengan Python
-
+![Grafik Total Penjualan Oktober](Day3_Visualization/total_duit_oktober.png)
 ## Deskripsi
 Hari ini gue belajar bikin visualisasi data sederhana pakai library `matplotlib` dan `seaborn` di Google Colab buat ngubah data mentah jadi grafik yang gampang dibaca.
 
