@@ -12,7 +12,7 @@ Belajar query dasar SQL buat analisis data penjualan.
 3. Agregasi total penjualan per bulan
 
 **Hasil**
-![Query Hasil Penjualan](./Day1_SQL_Basic/query_result.png)
+![Query Hasil Penjualan](./Day1_Excel_SQL_Basics/query_result.png)
 
 **Tools**
 - PostgreSQL
