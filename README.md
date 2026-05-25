@@ -11,9 +11,6 @@ Belajar query dasar SQL buat analisis data penjualan.
 2. JOIN 2 tabel: orders & customers
 3. Agregasi total penjualan per bulan
 
-**Hasil**
-![Query Hasil Penjualan](./Day1_Excel_SQL_Basics/query_result.png)
-
 **Tools**
 - PostgreSQL
 - DBeaver
@@ -27,9 +24,6 @@ Eksplorasi data CSV pakai Pandas.
 1. Load dan cleaning data kotor
 2. Filter data berdasarkan kondisi
 3. Bikin kolom baru dan grouping
-
-**Hasil**
-![Tabel Data Bersih](./Day2_Python_Pandas/clean_data.png)
 
 **Tools**
 - Python
@@ -45,10 +39,6 @@ Visualisasi data penjualan biar gampang dibaca.
 1. Load data pakai pandas
 2. Bikin Bar Chart untuk total penjualan per produk
 3. Bikin Line Chart untuk tren penjualan bulanan
-
-**Hasil**
-![Total Penjualan Produk](./Day3_Visualization/total_penjualan.png)
-![Tren Penjualan Bulanan](./Day3_Visualization/tren_penjualan.png)
 
 **Tools**
 - Python
@@ -66,9 +56,6 @@ Otomasi laporan penjualan bulanan pakai Python.
 1. Auto load data dari Excel
 2. Generate grafik tren penjualan
 3. Export hasil ke folder laporan
-
-**Hasil**
-![Tren Penjualan Oktober](./Day4_Automation/trend_oktober%20(1).png)
 
 **Tools**
 - Python
