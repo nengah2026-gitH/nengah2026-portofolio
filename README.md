@@ -19,3 +19,14 @@ Grafik sudah tersedia di file `analisis_penjualan.ipynb`:
 - Matplotlib
 - Seaborn
 - Google Colab
+## Day 4: Sales Data Automation with Python
+
+Automasi analisis data penjualan bulanan menggunakan Python dan Pandas.  
+Script baca file CSV, proses data, lalu generate grafik trend penjualan otomatis.
+
+**Isi folder:** 
+- `analisis_penjualan.ipynb` - Notebook Google Colab
+- `penjualan.csv` - Data mentah
+- `trend_oktober (1).png` - Hasil grafik
+
+**Lihat projectnya di sini:** [Day4_Automation](./Day4_Automation)
