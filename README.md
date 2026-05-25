@@ -1,32 +1,77 @@
-# Day 3: Data Visualization dengan Python
-![Grafik Total Penjualan Oktober](Day3_Visualization/total_duit_oktober.png)
-## Deskripsi
-Hari ini gue belajar bikin visualisasi data sederhana pakai library `matplotlib` dan `seaborn` di Google Colab buat ngubah data mentah jadi grafik yang gampang dibaca.
+# Data Analyst Portfolio - 30 Days Challenge
+Repo ini berisi project harian gue buat belajar Data Analyst dari nol sampai bisa bikin dashboard.
 
-## Yang Dilakukan
+---
+
+### Day 1: SQL Basics
+Belajar query dasar SQL buat analisis data penjualan.
+
+**Yang dikerjain:**
+1. SELECT, WHERE, ORDER BY, GROUP BY
+2. JOIN 2 tabel: orders & customers
+3. Agregasi total penjualan per bulan
+
+**Hasil**
+![Query Hasil Penjualan](./Day1_SQL_Basic/query_result.png)
+
+**Tools**
+- PostgreSQL
+- DBeaver
+
+---
+
+### Day 2: Python Pandas Fundamentals
+Eksplorasi data CSV pakai Pandas.
+
+**Yang dikerjain:**
+1. Load dan cleaning data kotor
+2. Filter data berdasarkan kondisi
+3. Bikin kolom baru dan grouping
+
+**Hasil**
+![Tabel Data Bersih](./Day2_Python_Pandas/clean_data.png)
+
+**Tools**
+- Python
+- Pandas
+- Jupyter Notebook
+
+---
+
+### Day 3: Data Visualization with Python
+Visualisasi data penjualan biar gampang dibaca.
+
+**Yang dikerjain:**
 1. Load data pakai pandas
-2. Bikin Bar Chart untuk melihat total penjualan per produk
-3. Bikin Line Chart untuk melihat tren penjualan bulanan
+2. Bikin Bar Chart untuk total penjualan per produk
+3. Bikin Line Chart untuk tren penjualan bulanan
 
-## Hasil
-Grafik sudah tersedia di file `analisis_penjualan.ipynb`:
-1. Grafik 1: Total penjualan tiap produk
-2. Grafik 2: Tren penjualan dari bulan ke bulan
+**Hasil**
+![Total Penjualan Produk](./Day3_Visualization/total_penjualan.png)
+![Tren Penjualan Bulanan](./Day3_Visualization/tren_penjualan.png)
 
-## Tools
+**Tools**
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 - Google Colab
-## Day 4: Sales Data Automation with Python
 
-Automasi analisis data penjualan bulanan menggunakan Python dan Pandas.  
-Script baca file CSV, proses data, lalu generate grafik trend penjualan otomatis.
+---
 
-**Isi folder:** 
-- `analisis_penjualan.ipynb` - Notebook Google Colab
-- `penjualan.csv` - Data mentah
-- `trend_oktober (1).png` - Hasil grafik
+### Day 4: Sales Data Automation with Python
+Otomasi laporan penjualan bulanan pakai Python.
 
-**Lihat projectnya di sini:** [Day4_Automation](./Day4_Automation)
+**Yang dikerjain:**
+1. Auto load data dari Excel
+2. Generate grafik tren penjualan
+3. Export hasil ke folder laporan
+
+**Hasil**
+![Tren Penjualan Oktober](./Day4_Automation/trend_oktober%20(1).png)
+
+**Tools**
+- Python
+- Pandas
+- Openpyxl
+- Matplotlib
