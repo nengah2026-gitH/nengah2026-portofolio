@@ -62,3 +62,15 @@ Otomasi laporan penjualan bulanan pakai Python.
 - Pandas
 - Openpyxl
 - Matplotlib
+  
+### Day 5: Analisis Penjualan dengan Python
+
+**Yang dikerjain:**
+1. Load file penjualan.csv pakai pandas di Google Colab
+2. Group data buat cari produk terlaris
+3. Baca hasil analisis dan bikin kesimpulan
+
+**Hasil:**
+- Produk Ebook Copywriting & Template IG paling banyak terjual (3x)
+- Total pendapatan tertinggi dari Ebook Copywriting
+- Task selesai dalam 15 menit
