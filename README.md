@@ -89,5 +89,5 @@ Hari ini gue bikin grafik buat liat tren penjualan dari bulan ke bulan pakai dat
 Grafik garis yang nunjukin penjualan naik/turun tiap bulan. Jadi lebih gampang liat pola musiman atau bulan yang performanya jelek.
 
 ### File:
-- [Lihat notebook](./Day5_analisis/day6_tren_penjualan.ipynb)
+- [Lihat Notebook Day 6](../day6_tren_penjualan%20(1).ipynb)
 - [Data CSV](./Day5_analisis/data_penjualan_day1.csv)
