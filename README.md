@@ -74,9 +74,11 @@ Otomasi laporan penjualan bulanan pakai Python.
 - Produk Ebook Copywriting & Template IG paling banyak terjual (3x)
 - Total pendapatan tertinggi dari Ebook Copywriting
 - Task selesai dalam 15 menit
+  
   ## Day 6 - Tren Penjualan per Bulan 📈
 
 Hari ini gue bikin grafik buat liat tren penjualan dari bulan ke bulan pakai data yang sama kayak Day 5.
+[Lihat Notebook Day 6](day6_tren_penjualan%20(1).ipynb)
 
 ### Yang dikerjain:
 - Ubah kolom `Tanggal` jadi format datetime biar bisa di-group per bulan
