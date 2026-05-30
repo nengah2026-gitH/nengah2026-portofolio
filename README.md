@@ -77,8 +77,7 @@ Otomasi laporan penjualan bulanan pakai Python.
   
  ### Day 6: Trend Penjualan per Produk
 Analisis tren penjualan & visualisasi pake Pandas + Matplotlib.
-
-**Notebook:** [day6_tren_penjualan_final.ipynb](day6_tren_penjualan_final.ipynb)
+**Notebook:** [day6_tren_penjualan_final.ipynb](https://nbviewer.org/github/nengah2026-gitH/nengah2026-portofolio/blob/main/day6_tren_penjualan_final.ipynb)
 
 **Hasil:** Grafik batang total penjualan per produk
 **Tools:** Python, Pandas, Matplotlib
