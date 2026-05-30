@@ -6,7 +6,7 @@ st.title("📊 Dashboard Penjualan Day 7")
 st.write("Dashboard sederhana buat liat tren penjualan per produk")
 
 # Load data - pake file csv yg sama kayak Day6
-df = pd.read_csv('penjualan.csv')
+df = pd.read_csv('penjualan_day1.csv')
 
 # Sidebar filter
 produk_list = df['produk'].unique()
