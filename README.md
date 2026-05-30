@@ -86,7 +86,7 @@ Analisis tren penjualan & visualisasi pake Pandas + Matplotlib.
 3. Insight produk terlaris
 
 **Hasil:** Grafik batang total penjualan per produk  
-**Notebook:** [day6_tren_penjualan_final.ipynb](day6_tren_penjualan_final.ipynb)  
+**Notebook:** Lihat file `day6_tren_penjualan_final.ipynb` di repo ini  
 **Tools:** Python, Pandas, Matplotlib
 
 ![Grafik Day6](day6_grafik.png)
