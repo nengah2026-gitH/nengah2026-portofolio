@@ -105,5 +105,3 @@ Hasil: Dashboard web interaktif bisa upload data & download hasil filter
 Notebook/Script: Lihat file `day7_dashboard.py` di repo ini
 Tools: Python, Streamlit, Pandas, Matplotlib
 
-Hasil: Dashboard Tampilan
-![Dashboard Tampilan](screenshot_day7.png)
