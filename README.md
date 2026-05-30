@@ -90,3 +90,20 @@ Analisis tren penjualan & visualisasi pake Pandas + Matplotlib.
 **Tools:** Python, Pandas, Matplotlib
 
 ![Grafik Day6](day6_grafik.png)
+## Day 7: Dashboard Penjualan Interaktif
+
+Upgrade analisis Day 6 jadi dashboard web interaktif pake Streamlit. Upload CSV → filter → grafik auto update.
+
+Yang dikerjain:
+1. Bikin dashboard pake Streamlit + upload file CSV
+2. Tambah filter produk di sidebar biar data bisa dipilih
+3. Bikin KPI card: total penjualan, total jumlah, rata2 harga
+4. Visualisasi grafik batang + scatter harga vs jumlah
+5. Fitur download hasil filter ke CSV gratis
+
+Hasil: Dashboard web interaktif bisa upload data & download hasil filter
+Notebook/Script: Lihat file `day7_dashboard.py` di repo ini
+Tools: Python, Streamlit, Pandas, Matplotlib
+
+Hasil: Dashboard Tampilan
+![Dashboard Tampilan](screenshot_day7.png)
