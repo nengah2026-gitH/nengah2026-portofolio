@@ -1,9 +1,7 @@
-# Data Analyst Portfolio - 30 Days Challenge
-Repo ini berisi project harian gue buat belajar Data Analyst dari nol sampai bisa bikin dashboard.
+# nengah2026-portofolio
+Repo ini berisi project harian gue buat belajar Data Analyst dari nol sampai bisa.
 
----
-
-### Day 1: SQL Basics
+## Day 1: SQL Basics
 Belajar query dasar SQL buat analisis data penjualan.
 
 **Yang dikerjain:**
@@ -16,23 +14,20 @@ Belajar query dasar SQL buat analisis data penjualan.
 - DBeaver
 
 ---
-
-### Day 2: Python Pandas Fundamentals
+## Day 2: Python Pandas Fundamentals
 Eksplorasi data CSV pakai Pandas.
 
 **Yang dikerjain:**
-1. Load dan cleaning data kotor
-2. Filter data berdasarkan kondisi
-3. Bikin kolom baru dan grouping
+1. Baca CSV pake `pd.read_csv()`
+2. `head()`, `info()`, `describe()`
+3. Filter data pake boolean indexing
 
 **Tools**
 - Python
 - Pandas
-- Jupyter Notebook
 
 ---
-
-### Day 3: Data Visualization with Python
+## Day 3: Data Visualization with Python
 Visualisasi data penjualan biar gampang dibaca.
 
 **Yang dikerjain:**
@@ -48,8 +43,7 @@ Visualisasi data penjualan biar gampang dibaca.
 - Google Colab
 
 ---
-
-### Day 4: Sales Data Automation with Python
+## Day 4: Sales Data Automation with Python
 Otomasi laporan penjualan bulanan pakai Python.
 
 **Yang dikerjain:**
@@ -62,8 +56,10 @@ Otomasi laporan penjualan bulanan pakai Python.
 - Pandas
 - Openpyxl
 - Matplotlib
-  
-### Day 5: Analisis Penjualan dengan Python
+
+---
+## Day 5: Analisis Penjualan dengan Python
+Analisis penjualan pake Pandas buat nemuin produk terlaris.
 
 **Yang dikerjain:**
 1. Load file penjualan.csv pakai pandas di Google Colab
@@ -74,10 +70,23 @@ Otomasi laporan penjualan bulanan pakai Python.
 - Produk Ebook Copywriting & Template IG paling banyak terjual (3x)
 - Total pendapatan tertinggi dari Ebook Copywriting
 - Task selesai dalam 15 menit
-  
- ### Day 6: Trend Penjualan per Produk
-Analisis tren penjualan & visualisasi pake Pandas + Matplotlib.
-**Notebook:** [day6_tren_penjualan_final.ipynb](https://nbviewer.org/github/nengah2026-gitH/nengah2026-portofolio/blob/main/day6_tren_penjualan_final.ipynb)
 
-**Hasil:** Grafik batang total penjualan per produk
+**Tools**
+- Python
+- Pandas
+- Google Colab
+
+---
+## Day 6: Trend Penjualan per Produk
+Analisis tren penjualan & visualisasi pake Pandas + Matplotlib.
+
+**Yang dikerjain:**
+1. Grouping data penjualan per produk
+2. Bikin grafik batang total penjualan
+3. Insight produk terlaris
+
+**Hasil:** Grafik batang total penjualan per produk  
+**Notebook:** [day6_tren_penjualan_final.ipynb](day6_tren_penjualan_final.ipynb)  
 **Tools:** Python, Pandas, Matplotlib
+
+![Grafik Day6](day6_grafik.png)
