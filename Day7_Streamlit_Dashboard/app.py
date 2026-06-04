@@ -13,11 +13,11 @@ if uploaded_file is not None:
     
     # KPI
     col1, col2, col3 = st.columns(3)
-    col1.metric("Total Penjualan", f"Rp {df['harga'].sum():,.0f}")
+    col1.metric("Total Penjualan", f"Rp {df['Harga'].sum():,.0f}")
     col2.metric("Total Qty", f"{df['jumlah'].sum():,}")
-    col3.metric("Rata2 Harga", f"Rp {df['harga'].mean():,.0f}")
+    col3.metric("Rata2 Harga", f"Rp {df['Harga'].mean():,.0f}")
     
     # Grafik
-    st.bar_chart(df.groupby('produk')['jumlah'].sum())
+    st.bar_chart(df.groupby('Produk')['Jumlah'].sum())
 else:
     st.info("Silakan upload file CSV dulu bro")
